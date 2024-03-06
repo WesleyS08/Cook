@@ -25,8 +25,8 @@ O Cook App é um projeto desenvolvido acompanhando a live realizada no canal Rod
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/WesleyS08/Cook/tree/main
+   cd Cook
    ```
 
 2. **Instale as Dependências:**
